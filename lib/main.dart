@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:food_recipe_app/home.dart';
-import 'home.dart';
+//import 'home.dart';
 
 void main() {
   runApp(const MyApp());
